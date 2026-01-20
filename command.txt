@@ -1,0 +1,4 @@
+***************************************
+java compilation ->javac filename.java
+java run->java filename
+***************************************
