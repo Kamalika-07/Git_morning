@@ -6,3 +6,5 @@ welcome to cloud storage
 git commit 
 git status
 git branch
+git config --global user.name
+
